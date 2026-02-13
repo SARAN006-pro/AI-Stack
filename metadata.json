@@ -1,0 +1,8 @@
+{
+  "name": "AI-Stack Learning Hub",
+  "description": "An interactive, AI-enhanced learning platform focused on the AI-Native Web Stack, providing deep dives into RAG, Vector Databases, and modern frontend architectures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
